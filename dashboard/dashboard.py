@@ -15,7 +15,7 @@ day_df = pd.read_csv("dashboard/all_data.csv")
 
 # Sidebar
 with st.sidebar:
-    st.image("bike_logo.jpg", use_column_width=True)
+    st.image("dashboard/bike_logo.jpg", use_column_width=True)
     min_date = pd.to_datetime(day_df["dateday"].min()) # Convert to datetime
     max_date = pd.to_datetime(day_df["dateday"].max())  # Convert to datetime
     start_date = st.date_input(label="Start Date", value=min_date, min_value=min_date, max_value=max_date)
