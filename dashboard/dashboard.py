@@ -41,8 +41,8 @@ with col2:
     st.metric("Total Casual", value=total_sum_casual)
 
 with col3:
-    total_sum_regis = day_df.casual.sum()
-    st.metric("Total Casual", value=total_sum_regis)
+    total_sum_regis = day_df.registered.sum()
+    st.metric("Total Registered User", value=total_sum_regis)
 
 # Visualizations
 # Season analysis
