@@ -13,7 +13,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
-# Atau kamu bisa akses dari link ini!
+## Atau kamu bisa akses dari link ini!
 ```
 https://azalliamelani-bike-sharing-analysis.streamlit.app/
 ```
