@@ -11,7 +11,7 @@ def season_df(day_df):
     return season_df
 
 # Load data
-day_df = pd.read_csv("Dashboard/all_data.csv")
+day_df = pd.read_csv("all_data.csv")
 
 # Sidebar
 with st.sidebar:
