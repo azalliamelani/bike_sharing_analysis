@@ -8,8 +8,16 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
-## Run Streamlit App
+## Run Streamlit On Local
+**Install Dependencies**
+To install all the required libraries, open your terminal/command prompt/conda prompt, navigate to this project folder, and run the following command:
 ```
+pip install -r requirements.txt
+```
+
+**Run Dashboard**
+```
+cd dashboard
 streamlit run dashboard.py
 ```
 
@@ -18,4 +26,4 @@ streamlit run dashboard.py
 https://azalliamelani-bike-sharing-analysis.streamlit.app/
 ```
 
-Thank you!
+Thank you for visiting my project!
