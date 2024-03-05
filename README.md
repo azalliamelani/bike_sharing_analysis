@@ -1,5 +1,5 @@
-# Dicoding Collection Dashboard ✨
-Final project of Learn Data Analysis with Python on Dicoding 2024. Dataset yang digunakan adalah [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset).
+# Dicoding Collection Dashboard: Bikesharing Analysis and Dashboard ✨
+Final project of Learn Data Analysis with Python on Dicoding 2024. The dataset i used is: [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset). 
 
 ## Setup Environment
 ```
