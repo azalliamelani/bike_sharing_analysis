@@ -10,6 +10,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
 ## Run Streamlit On Local
 **Install Dependencies**
+
 To install all the required libraries, open your terminal/command prompt/conda prompt, navigate to this project folder, and run the following command:
 ```
 pip install -r requirements.txt
