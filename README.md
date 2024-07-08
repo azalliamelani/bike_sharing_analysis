@@ -22,7 +22,7 @@ cd dashboard
 streamlit run dashboard.py
 ```
 
-## Atau kamu bisa akses dari link ini! :ribbon:
+## You can access the dashboard through this link! :ribbon:
 ```
 https://azalliamelani-bike-sharing-analysis.streamlit.app/
 ```
